@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=/usr/lib
+includedir=/usr/include
+
+Name: android-properties
+Description: android properties library
+Version: 0.1.0
+Libs: -L${libdir} -landroid-properties
+Cflags: -I${includedir}

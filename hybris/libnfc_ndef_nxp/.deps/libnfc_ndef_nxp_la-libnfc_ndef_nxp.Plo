@@ -1,0 +1,206 @@
+libnfc_ndef_nxp_la-libnfc_ndef_nxp.lo: libnfc_ndef_nxp.c \
+ /usr/include/stdc-predef.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcStatus.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcTypes.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-hard.h /usr/include/bits/wchar.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcTypes.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcIoctlCode.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfcStatus.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcStatus.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefRecord.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcLlcpTypes.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcConfig.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phDal4Nfc_messageQueueLib.h \
+ /usr/include/sys/msg.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h \
+ /usr/include/sys/ipc.h /usr/include/bits/ipctypes.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/bits/ipc.h /usr/include/bits/msq.h /usr/include/time.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefMap.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phOsalNfc.h \
+ /usr/include/memory.h /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/bits/string.h /usr/include/bits/string2.h \
+ /usr/include/stdlib.h /usr/include/bits/string3.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHal4Nfc.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcCompId.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcHalTypes.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcInterface.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcIoctlCode.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phDbgTrace.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_OvrHal.h \
+ /usr/include/dlfcn.h /usr/include/bits/dlfcn.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/bits/select2.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h /usr/include/bits/stdlib-bsearch.h \
+ /usr/include/bits/stdlib-float.h /usr/include/bits/stdlib.h \
+ ../include/hybris/common/binding.h \
+ ../include/hybris/common/floating_point_abi.h
+
+/usr/include/stdc-predef.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcStatus.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcTypes.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-hard.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcTypes.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcIoctlCode.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfcStatus.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcStatus.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefRecord.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcLlcpTypes.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcConfig.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phDal4Nfc_messageQueueLib.h:
+
+/usr/include/sys/msg.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h:
+
+/usr/include/sys/ipc.h:
+
+/usr/include/bits/ipctypes.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/ipc.h:
+
+/usr/include/bits/msq.h:
+
+/usr/include/time.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefMap.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phOsalNfc.h:
+
+/usr/include/memory.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/string3.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHal4Nfc.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcCompId.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcHalTypes.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcInterface.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcIoctlCode.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phDbgTrace.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/bits/stdio2.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_OvrHal.h:
+
+/usr/include/dlfcn.h:
+
+/usr/include/bits/dlfcn.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-bsearch.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/stdlib.h:
+
+../include/hybris/common/binding.h:
+
+../include/hybris/common/floating_point_abi.h:

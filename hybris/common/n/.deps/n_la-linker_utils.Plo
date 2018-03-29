@@ -1,0 +1,347 @@
+n_la-linker_utils.lo: linker_utils.cpp /usr/include/stdc-predef.h \
+ linker_utils.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/string \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/c++config.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/os_defines.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-hard.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/cpu_defines.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stringfwd.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/memoryfwd.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/char_traits.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_algobase.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/functexcept.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/exception_defines.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/cpp_type_traits.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/type_traits.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/numeric_traits.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_pair.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/move.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/concept_check.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/type_traits \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_iterator_base_types.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_iterator_base_funcs.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/debug/debug.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_iterator.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/postypes.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cwchar \
+ /usr/include/wchar.h /usr/include/stdio.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h \
+ /usr/include/bits/wchar.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h \
+ /usr/include/xlocale.h /usr/include/bits/wchar2.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cstdint \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h \
+ /usr/include/stdint.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/allocator.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/c++allocator.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/new_allocator.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/new \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/exception \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/atomic_lockfree_defines.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/exception_ptr.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/nested_exception.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/localefwd.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/c++locale.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/clocale \
+ /usr/include/locale.h /usr/include/bits/locale.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/iosfwd \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cctype \
+ /usr/include/ctype.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/ostream_insert.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/cxxabi_forced.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_function.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/backward/binders.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/range_access.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/basic_string.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/atomicity.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/gthr.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/gthr-default.h \
+ /usr/include/pthread.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/bits/timex.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/setjmp.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/atomic_word.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/initializer_list \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/string_conversions.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cstdlib \
+ /usr/include/stdlib.h /usr/include/bits/waitflags.h \
+ /usr/include/bits/waitstatus.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/select2.h \
+ /usr/include/sys/sysmacros.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
+ /usr/include/bits/stdlib.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cstdio \
+ /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cerrno \
+ /usr/include/errno.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/functional_hash.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/hash_bytes.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/basic_string.tcc \
+ linker_debug.h ../../common/n/bionic/libc/private/libc_logging.h \
+ ../../common/n/bionic/libc/private/libc_events.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h \
+ /usr/include/bits/unistd.h hybris_compat.h /usr/include/string.h \
+ /usr/include/bits/string3.h /usr/include/memory.h
+
+/usr/include/stdc-predef.h:
+
+linker_utils.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/string:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/c++config.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-hard.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/cpu_defines.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stringfwd.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/memoryfwd.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/char_traits.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_algobase.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/functexcept.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/exception_defines.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/cpp_type_traits.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/type_traits.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/numeric_traits.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_pair.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/move.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/concept_check.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/type_traits:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_iterator_base_types.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_iterator_base_funcs.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/debug/debug.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_iterator.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/postypes.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cwchar:
+
+/usr/include/wchar.h:
+
+/usr/include/stdio.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h:
+
+/usr/include/bits/wchar.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/wchar2.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cstdint:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/allocator.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/c++allocator.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/new_allocator.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/new:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/exception:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/atomic_lockfree_defines.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/exception_ptr.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/nested_exception.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/localefwd.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/c++locale.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/clocale:
+
+/usr/include/locale.h:
+
+/usr/include/bits/locale.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/iosfwd:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cctype:
+
+/usr/include/ctype.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/ostream_insert.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/cxxabi_forced.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/stl_function.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/backward/binders.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/range_access.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/basic_string.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/atomicity.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/gthr.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/gthr-default.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/time.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/timex.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/bits/setjmp.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/atomic_word.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/initializer_list:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/ext/string_conversions.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cstdlib:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-bsearch.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/stdlib.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cstdio:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/bits/stdio2.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cerrno:
+
+/usr/include/errno.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/functional_hash.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/hash_bytes.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/bits/basic_string.tcc:
+
+linker_debug.h:
+
+../../common/n/bionic/libc/private/libc_logging.h:
+
+../../common/n/bionic/libc/private/libc_events.h:
+
+/usr/include/unistd.h:
+
+/usr/include/bits/posix_opt.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/confname.h:
+
+/usr/include/getopt.h:
+
+/usr/include/bits/unistd.h:
+
+hybris_compat.h:
+
+/usr/include/string.h:
+
+/usr/include/bits/string3.h:
+
+/usr/include/memory.h:

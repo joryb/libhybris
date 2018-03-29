@@ -1,0 +1,93 @@
+test_egl-test_egl.o: test_egl.c /usr/include/stdc-predef.h \
+ /usr/lib/droid-devel/droid-headers/android-config.h \
+ /usr/lib/droid-devel/droid-headers/android-version.h \
+ ../include/EGL/egl.h ../include/EGL/eglplatform.h \
+ ../include/KHR/khrplatform.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-hard.h /usr/include/bits/wchar.h \
+ /usr/include/assert.h /usr/include/stdio.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
+ ../egl/platforms/common/hybris_nativebufferext.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/stdlib.h \
+ /usr/include/bits/string3.h ../include/EGL/eglext.h \
+ ../include/EGL/eglmesaext.h
+
+/usr/include/stdc-predef.h:
+
+/usr/lib/droid-devel/droid-headers/android-config.h:
+
+/usr/lib/droid-devel/droid-headers/android-version.h:
+
+../include/EGL/egl.h:
+
+../include/EGL/eglplatform.h:
+
+../include/KHR/khrplatform.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-hard.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/assert.h:
+
+/usr/include/stdio.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/bits/stdio2.h:
+
+../egl/platforms/common/hybris_nativebufferext.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/string3.h:
+
+../include/EGL/eglext.h:
+
+../include/EGL/eglmesaext.h:

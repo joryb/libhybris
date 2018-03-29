@@ -335,6 +335,8 @@ rm %{buildroot}/%{_libdir}/*.la %{buildroot}/%{_libdir}/libhybris/*.la
 %{_bindir}/setprop
 %{_libdir}/libhybris/linker/mm.la
 %{_libdir}/libhybris/linker/mm.so
+%{_libdir}/libhybris/linker/n.la
+%{_libdir}/libhybris/linker/n.so
 %ifnarch aarch64
   %{_libdir}/libhybris/linker/jb.la
   %{_libdir}/libhybris/linker/jb.so

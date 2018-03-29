@@ -1,0 +1,102 @@
+libGLESv1_CM_la-glesv1_cm.lo: glesv1_cm.c /usr/include/stdc-predef.h \
+ ../include/GLES/gl.h ../include/GLES/glplatform.h \
+ ../include/KHR/khrplatform.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-hard.h /usr/include/bits/wchar.h \
+ ../include/GLES/glext.h /usr/include/dlfcn.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h \
+ /usr/include/bits/dlfcn.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/bits/select2.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h /usr/include/bits/stdlib-bsearch.h \
+ /usr/include/bits/stdlib-float.h /usr/include/bits/stdlib.h \
+ ../include/hybris/common/binding.h \
+ ../include/hybris/common/floating_point_abi.h
+
+/usr/include/stdc-predef.h:
+
+../include/GLES/gl.h:
+
+../include/GLES/glplatform.h:
+
+../include/KHR/khrplatform.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-hard.h:
+
+/usr/include/bits/wchar.h:
+
+../include/GLES/glext.h:
+
+/usr/include/dlfcn.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h:
+
+/usr/include/bits/dlfcn.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-bsearch.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/stdlib.h:
+
+../include/hybris/common/binding.h:
+
+../include/hybris/common/floating_point_abi.h:

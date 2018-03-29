@@ -1,0 +1,61 @@
+libhardware_la-hardware.lo: hardware.c /usr/include/stdc-predef.h \
+ /usr/include/dlfcn.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-hard.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h \
+ /usr/include/bits/dlfcn.h /usr/include/errno.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/lib/droid-devel/droid-headers/hardware/hardware.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/lib/droid-devel/droid-headers/cutils/native_handle.h \
+ /usr/lib/droid-devel/droid-headers/system/graphics.h \
+ ../include/hybris/common/binding.h \
+ ../include/hybris/common/floating_point_abi.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/dlfcn.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-hard.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h:
+
+/usr/include/bits/dlfcn.h:
+
+/usr/include/errno.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/lib/droid-devel/droid-headers/hardware/hardware.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/lib/droid-devel/droid-headers/cutils/native_handle.h:
+
+/usr/lib/droid-devel/droid-headers/system/graphics.h:
+
+../include/hybris/common/binding.h:
+
+../include/hybris/common/floating_point_abi.h:

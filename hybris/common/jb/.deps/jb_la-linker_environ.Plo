@@ -1,0 +1,11 @@
+jb_la-linker_environ.lo: linker_environ.c /usr/include/stdc-predef.h \
+ ../../config.h linker_environ.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:
+
+linker_environ.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h:

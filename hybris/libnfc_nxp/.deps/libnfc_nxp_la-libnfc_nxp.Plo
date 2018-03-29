@@ -1,0 +1,331 @@
+libnfc_nxp_la-libnfc_nxp.lo: libnfc_nxp.c /usr/include/stdc-predef.h \
+ /usr/lib/droid-devel/droid-headers/android-config.h \
+ /usr/lib/droid-devel/droid-headers/android-version.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcTypes.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-hard.h /usr/include/bits/wchar.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcIoctlCode.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcTypes.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfcStatus.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcStatus.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefRecord.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcLlcpTypes.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcConfig.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phDal4Nfc.h \
+ /usr/lib/droid-devel/droid-headers/hardware/nfc.h /usr/include/strings.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h \
+ /usr/include/xlocale.h /usr/include/sys/types.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/bits/select2.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
+ /usr/lib/droid-devel/droid-headers/hardware/hardware.h \
+ /usr/lib/droid-devel/droid-headers/cutils/native_handle.h \
+ /usr/lib/droid-devel/droid-headers/system/graphics.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcInterface.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcHalTypes.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcCompId.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefMap.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phOsalNfc.h \
+ /usr/include/memory.h /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/stdlib.h \
+ /usr/include/bits/string3.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHal4Nfc.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcIoctlCode.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phDbgTrace.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_OvrHal.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc_Internal.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefMap.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_SmtCrdFmt.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_Llcp.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpMac.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpTransport.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpUtils.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phOsalNfc_Timer.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc_SE.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefReg.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc_initiator.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc_ndef_raw.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_Generic.h \
+ /usr/lib/droid-devel/droid-headers/cutils/log.h \
+ /usr/lib/droid-devel/droid-headers/log/log.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h \
+ /usr/include/bits/unistd.h /usr/lib/droid-devel/droid-headers/log/logd.h \
+ /usr/lib/droid-devel/droid-headers/android/log.h /usr/include/pthread.h \
+ /usr/include/sched.h /usr/include/bits/sched.h \
+ /usr/include/bits/setjmp.h /usr/lib/droid-devel/droid-headers/log/uio.h \
+ /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHal4Nfc.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHal4Nfc_Internal.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_SmtCrdFmt.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpUtils.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpTransport.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phLlcNfc_DataTypes.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_NfcIPMgmt.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_Generic.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_WI.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_Emulation.h \
+ /usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_Pipe.h \
+ /usr/include/dlfcn.h /usr/include/bits/dlfcn.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/alloca.h /usr/include/bits/stdlib-bsearch.h \
+ /usr/include/bits/stdlib-float.h /usr/include/bits/stdlib.h \
+ ../include/hybris/common/binding.h \
+ ../include/hybris/common/floating_point_abi.h
+
+/usr/include/stdc-predef.h:
+
+/usr/lib/droid-devel/droid-headers/android-config.h:
+
+/usr/lib/droid-devel/droid-headers/android-version.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcTypes.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-hard.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcIoctlCode.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcTypes.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfcStatus.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcStatus.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefRecord.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcLlcpTypes.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcConfig.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phDal4Nfc.h:
+
+/usr/lib/droid-devel/droid-headers/hardware/nfc.h:
+
+/usr/include/strings.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/lib/droid-devel/droid-headers/hardware/hardware.h:
+
+/usr/lib/droid-devel/droid-headers/cutils/native_handle.h:
+
+/usr/lib/droid-devel/droid-headers/system/graphics.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcInterface.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcHalTypes.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcCompId.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefMap.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phOsalNfc.h:
+
+/usr/include/memory.h:
+
+/usr/include/string.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/string3.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHal4Nfc.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phNfcIoctlCode.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phDbgTrace.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/bits/stdio2.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_OvrHal.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc_Internal.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefMap.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_SmtCrdFmt.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_Llcp.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpMac.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpTransport.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpUtils.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phOsalNfc_Timer.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc_SE.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_NdefReg.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc_initiator.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLibNfc_ndef_raw.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_Generic.h:
+
+/usr/lib/droid-devel/droid-headers/cutils/log.h:
+
+/usr/lib/droid-devel/droid-headers/log/log.h:
+
+/usr/include/unistd.h:
+
+/usr/include/bits/posix_opt.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/confname.h:
+
+/usr/include/getopt.h:
+
+/usr/include/bits/unistd.h:
+
+/usr/lib/droid-devel/droid-headers/log/logd.h:
+
+/usr/lib/droid-devel/droid-headers/android/log.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/bits/setjmp.h:
+
+/usr/lib/droid-devel/droid-headers/log/uio.h:
+
+/usr/include/sys/uio.h:
+
+/usr/include/bits/uio.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHal4Nfc.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHal4Nfc_Internal.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_SmtCrdFmt.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpUtils.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phFriNfc_LlcpTransport.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phLlcNfc_DataTypes.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_NfcIPMgmt.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_Generic.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_WI.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_Emulation.h:
+
+/usr/lib/droid-devel/droid-headers/libnfc-nxp/phHciNfc_Pipe.h:
+
+/usr/include/dlfcn.h:
+
+/usr/include/bits/dlfcn.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-bsearch.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/stdlib.h:
+
+../include/hybris/common/binding.h:
+
+../include/hybris/common/floating_point_abi.h:

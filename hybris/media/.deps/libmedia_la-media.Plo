@@ -1,0 +1,156 @@
+libmedia_la-media.lo: media.c /usr/include/stdc-predef.h \
+ /usr/include/assert.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-hard.h /usr/include/dlfcn.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h \
+ /usr/include/bits/dlfcn.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdbool.h \
+ ../include/hybris/common/binding.h \
+ ../include/hybris/common/floating_point_abi.h \
+ ../include/hybris/media/decoding_service.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h \
+ /usr/include/bits/unistd.h \
+ ../include/hybris/media/media_compatibility_layer.h \
+ ../include/GLES2/gl2.h ../include/GLES2/gl2platform.h \
+ ../include/KHR/khrplatform.h ../include/hybris/media/media_codec_layer.h \
+ ../include/hybris/media/media_message_layer.h /usr/include/sys/types.h \
+ /usr/include/time.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/bits/select2.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/memory.h \
+ /usr/include/string.h /usr/include/xlocale.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/stdlib.h \
+ /usr/include/bits/string3.h ../include/hybris/media/media_buffer_layer.h \
+ ../include/hybris/media/media_meta_data_layer.h \
+ ../include/hybris/media/media_format_layer.h \
+ ../include/hybris/media/surface_texture_client_hybris.h \
+ ../include/EGL/egl.h ../include/EGL/eglplatform.h \
+ ../include/hybris/media/media_codec_list.h \
+ ../include/hybris/media/media_recorder_layer.h \
+ ../include/hybris/media/media_codec_source_layer.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-hard.h:
+
+/usr/include/dlfcn.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h:
+
+/usr/include/bits/dlfcn.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdbool.h:
+
+../include/hybris/common/binding.h:
+
+../include/hybris/common/floating_point_abi.h:
+
+../include/hybris/media/decoding_service.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/unistd.h:
+
+/usr/include/bits/posix_opt.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/confname.h:
+
+/usr/include/getopt.h:
+
+/usr/include/bits/unistd.h:
+
+../include/hybris/media/media_compatibility_layer.h:
+
+../include/GLES2/gl2.h:
+
+../include/GLES2/gl2platform.h:
+
+../include/KHR/khrplatform.h:
+
+../include/hybris/media/media_codec_layer.h:
+
+../include/hybris/media/media_message_layer.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/memory.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/string3.h:
+
+../include/hybris/media/media_buffer_layer.h:
+
+../include/hybris/media/media_meta_data_layer.h:
+
+../include/hybris/media/media_format_layer.h:
+
+../include/hybris/media/surface_texture_client_hybris.h:
+
+../include/EGL/egl.h:
+
+../include/EGL/eglplatform.h:
+
+../include/hybris/media/media_codec_list.h:
+
+../include/hybris/media/media_recorder_layer.h:
+
+../include/hybris/media/media_codec_source_layer.h:

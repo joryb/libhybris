@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=/usr/lib
+includedir=/usr/include
+
+Name: libnfc_ndef_nxp
+Description: libhybris NFC NDEF library (NXP variant)
+Version: 0.1.0
+Libs: -L${libdir} -lnfc_ndef_nxp
+Cflags: -I${includedir}

@@ -1,0 +1,253 @@
+libhybris_eglplatformcommon_la-server_wlegl_buffer.lo: \
+ server_wlegl_buffer.cpp /usr/include/stdc-predef.h \
+ /usr/lib/droid-devel/droid-headers/android-config.h \
+ /usr/lib/droid-devel/droid-headers/android-version.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cstring \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/c++config.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/os_defines.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-hard.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/cpu_defines.h \
+ /usr/include/string.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h \
+ /usr/include/xlocale.h /usr/include/bits/string3.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cassert \
+ /usr/include/assert.h server_wlegl_buffer.h \
+ /usr/lib/droid-devel/droid-headers/cutils/native_handle.h \
+ /usr/lib/droid-devel/droid-headers/system/window.h /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include-fixed/limits.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+ /usr/include/bits/stdio_lim.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/lib/droid-devel/droid-headers/system/graphics.h \
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/confname.h \
+ /usr/include/getopt.h /usr/include/bits/unistd.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdbool.h \
+ /usr/lib/droid-devel/droid-headers/hardware/gralloc.h \
+ /usr/lib/droid-devel/droid-headers/hardware/hardware.h \
+ /usr/include/sys/types.h /usr/include/time.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/bits/select2.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/lib/droid-devel/droid-headers/hardware/fb.h \
+ /usr/include/wayland-server.h /usr/include/wayland-util.h \
+ /usr/include/math.h /usr/include/bits/huge_val.h \
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+ /usr/include/bits/inf.h /usr/include/bits/nan.h \
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+ /usr/include/bits/mathinline.h /usr/include/inttypes.h \
+ /srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h \
+ /usr/include/wayland-version.h /usr/include/wayland-server-protocol.h \
+ windowbuffer.h nativewindowbase.h ../../../include/EGL/egl.h \
+ ../../../include/EGL/eglplatform.h ../../../include/KHR/khrplatform.h \
+ support.h /usr/include/stdio.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/bits/sys_errlist.h /usr/include/bits/stdio.h \
+ /usr/include/bits/stdio2.h server_wlegl_private.h server_wlegl.h \
+ ../../../include/EGL/eglext.h ../../../include/EGL/eglmesaext.h
+
+/usr/include/stdc-predef.h:
+
+/usr/lib/droid-devel/droid-headers/android-config.h:
+
+/usr/lib/droid-devel/droid-headers/android-version.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cstring:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/c++config.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-hard.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/armv7hl-meego-linux-gnueabi/bits/cpu_defines.h:
+
+/usr/include/string.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/string3.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/armv7hl-meego-linux-gnueabi/include/c++/4.8.3/cassert:
+
+/usr/include/assert.h:
+
+server_wlegl_buffer.h:
+
+/usr/lib/droid-devel/droid-headers/cutils/native_handle.h:
+
+/usr/lib/droid-devel/droid-headers/system/window.h:
+
+/usr/include/errno.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include-fixed/limits.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/lib/droid-devel/droid-headers/system/graphics.h:
+
+/usr/include/unistd.h:
+
+/usr/include/bits/posix_opt.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/confname.h:
+
+/usr/include/getopt.h:
+
+/usr/include/bits/unistd.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdbool.h:
+
+/usr/lib/droid-devel/droid-headers/hardware/gralloc.h:
+
+/usr/lib/droid-devel/droid-headers/hardware/hardware.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/select2.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/lib/droid-devel/droid-headers/hardware/fb.h:
+
+/usr/include/wayland-server.h:
+
+/usr/include/wayland-util.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+/usr/include/inttypes.h:
+
+/srv/mer/toolings/SailfishOS-latest/opt/cross/lib/gcc/armv7hl-meego-linux-gnueabi/4.8.3/include/stdarg.h:
+
+/usr/include/wayland-version.h:
+
+/usr/include/wayland-server-protocol.h:
+
+windowbuffer.h:
+
+nativewindowbase.h:
+
+../../../include/EGL/egl.h:
+
+../../../include/EGL/eglplatform.h:
+
+../../../include/KHR/khrplatform.h:
+
+support.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/bits/stdio2.h:
+
+server_wlegl_private.h:
+
+server_wlegl.h:
+
+../../../include/EGL/eglext.h:
+
+../../../include/EGL/eglmesaext.h:
